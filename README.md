@@ -1,3 +1,7 @@
+# see also
+https://vladris.com/blog/2018/07/16/implementing-a-variant-type-in-csharp.html
+
+
 # C# Variant data type
 
 A class that mimics the behavior of the so-called variant data type.
